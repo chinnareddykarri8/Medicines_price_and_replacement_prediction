@@ -6,10 +6,13 @@ This project involves end-to-end processes, including scraping, storing, cleanin
 
 ## The objective of the project is to:
 
-develop a pricing model for pharmacies, Linear Regression
-predict substitutes for a medicine using descriptions, Word2Vec Model
-classify medicines into FDA categories, K-means Clustering
-market research on online pharmaceutical market, Exploratory Data Analysis
+Developed a pricing model for pharmacies, Linear Regression
+
+To predict substitutes for a medicine using descriptions, Word2Vec Model
+
+To classify medicines into FDA categories, K-means Clustering
+
+Tp market research on online pharmaceutical market, Exploratory Data Analysis
 
 ## Inspiration
 
